@@ -1,0 +1,5 @@
+*.class
+*.log
+# [edb - 2018-01-02] Added to circumvent path length error 
+.idea/*
+project/target/*
